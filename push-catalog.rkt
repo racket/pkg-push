@@ -245,3 +245,5 @@
        [else
         ;; Old checksum, so discard
         (purge-one checksum p)]))))
+
+(module test racket/base)
