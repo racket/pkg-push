@@ -2,6 +2,13 @@
 
 This the source for the Racket package: "pkg-push".
 
+Welcome! 
+
+You probably don’t want this package 😀
+
+If you are interested in Racket check the homepage at https://racket-lang.org for downloads, documentation, libraries and community - where you are welcome to ask questions.
+
+
 ### Contributing
 
 Contribute to Racket by submitting a [pull request], reporting an
